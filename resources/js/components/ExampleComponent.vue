@@ -7,7 +7,6 @@
 
                     <div class="card-body">
                         I'm an example component.
-                        <h1>ABCD</h1>
                     </div>
                 </div>
             </div>
